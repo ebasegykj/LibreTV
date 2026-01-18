@@ -23,7 +23,7 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     {
-  "cache_time": 7200，
+
   "api_site": {
     "1080zyku": {
       "api": "https://api.1080zyku.com/inc/api_mac10.php"，
